@@ -15,3 +15,5 @@ go build
 
 ./autochef >> todo.txt
 ```
+### Credits
+An anonymous friend for idea and wordlist.
