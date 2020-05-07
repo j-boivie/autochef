@@ -1,6 +1,6 @@
 # Autochef
 
-A silly program telling for telling you what to do.
+Autochef (Swedish for "auto boss") is a silly program telling for telling you what to do.
 
 ### Language support
 
